@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SixthApplication</string>
+    <string name="传感器模拟器">传感器模拟器</string>
+    <string name="方向传感器">方向传感器</string>
+    <string name="磁场传感器">磁场传感器</string>
+    <string name="温度传感器">温度传感器</string>
+</resources>
